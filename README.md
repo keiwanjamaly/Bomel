@@ -6,4 +6,4 @@ just some fancy facts about.me:
 - 💖 functional programming
 - Skills: Python, JS, TS, HTML, CSS, SQL, C++ and last but not least Haskell :)
 
-This is basically all. If you are interrested in anything, you can reach me [here](keiwanjamaly@gmail.com)
+This is basically all. If you are interrested in anything, you can reach me [here](mailto:keiwanjamaly@gmail.com)
